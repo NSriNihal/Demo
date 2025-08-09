@@ -1,2 +1,3 @@
 # Demo
-this is my first repositry
+This is my first repositry.
+Author - Nihal
